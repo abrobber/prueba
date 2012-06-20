@@ -17,6 +17,7 @@
 <body>
 
 	<h1>Esta es una prueba</h1>
+	<h2>Esto es un titulo</h2>
 
 </body>
 </html>
