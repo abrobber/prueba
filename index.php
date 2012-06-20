@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <html  lang="es">
 <head>
@@ -10,7 +9,7 @@
 	<style>
 		h1{
 			color:#212121:
-			margin:center;
+			margin:0 auto;
 		}
 	</style>
 
